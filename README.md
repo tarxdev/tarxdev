@@ -2,12 +2,34 @@
   <img src="https://github.com/user-attachments/assets/0f2b0c1b-d1b2-4c94-97c2-c7318ff59466" alt="Banner Animado" width="100%" height="200px"/>
 </div>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&color=30A3DC&scolor=5865F2&center=true&vCenter=true&width=400&lines=Tarciso" alt="Tarciso's gradient name"/>
-</a>
-
-
+<div align="center" style="margin-top: -80px; margin-bottom: 20px;">
+  <svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      .text-path {
+        font-family: 'Segoe UI', 'Roboto', sans-serif;
+        font-size: 80px;
+        font-weight: bold;
+        fill: none;
+        stroke: #FFFFFF;
+        stroke-width: 2;
+        stroke-dasharray: 800;
+        stroke-dashoffset: 800;
+        animation: draw 4s ease-in-out forwards;
+      }
+      @keyframes draw {
+        to {
+          stroke-dashoffset: 0;
+        }
+      }
+    </style>
+    <text class="text-path" x="50%" y="50%" dominant-baseline="middle" text-anchor="middle">Tarciso</text>
+  </svg>
+  
   <img src="https://img.shields.io/badge/Especialista_em_UI%2FUX-30A3DC?style=for-the-badge&logo=figma&logoColor=white" alt="Especialista em UI/UX"/>
+  <img src="https://img.shields.io/badge/Desenvolvedor_Criativo-5865F2?style=for-the-badge&logo=react&logoColor=white" alt="Desenvolvedor Criativo"/>
+</div>
+
+<img src="https://img.shields.io/badge/Especialista_em_UI%2FUX-30A3DC?style=for-the-badge&logo=figma&logoColor=white" alt="Especialista em UI/UX"/>
   <img src="https://img.shields.io/badge/Desenvolvedor_Criativo-5865F2?style=for-the-badge&logo=react&logoColor=white" alt="Desenvolvedor Criativo"/>
 </div>
 ---
