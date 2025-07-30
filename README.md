@@ -5,6 +5,8 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&color=30A3DC&scolor=5865F2&center=true&vCenter=true&width=400&lines=Tarciso" alt="Tarciso's gradient name"/>
 </a>
+
+
   <img src="https://img.shields.io/badge/Especialista_em_UI%2FUX-30A3DC?style=for-the-badge&logo=figma&logoColor=white" alt="Especialista em UI/UX"/>
   <img src="https://img.shields.io/badge/Desenvolvedor_Criativo-5865F2?style=for-the-badge&logo=react&logoColor=white" alt="Desenvolvedor Criativo"/>
 </div>
