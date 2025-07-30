@@ -1,11 +1,17 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0f2b0c1b-d1b2-4c94-97c2-c7318ff59466" alt="Banner Animado" width="100%" height="200px"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb212amM1NWVld2VoZXI1aXN6dTN6aHlqNWM1enJwejRjM25lYjZkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCfvKA9Hes/giphy.gif" alt="Banner Animado" width="100%" height="200px"/>
 </div>
 
-<h1 style="font-family: 'Segoe UI', Roboto, sans-serif; font-size: 4.5em; font-weight: 700; color: #FFFFFF; letter-spacing: 2px; text-shadow: 2px 2px 8px rgba(0,0,0,0.5);">
-  Tarciso
-</h1>  
-  <div>
+<div align="center" style="margin-top: -80px; margin-bottom: 20px;">
+
+  <div align="center">
+    <svg width="450" height="100" xmlns="http://www.w3.org/2000/svg">
+      <rect width="100%" height="100%" rx="10" ry="10" fill="#161b22" stroke="#30A3DC" stroke-width="2"/>
+      <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Segoe UI, Roboto, sans-serif" font-size="60" font-weight="bold" fill="#FFFFFF">Tarciso</text>
+    </svg>
+  </div>
+  
+  <div align="center" style="margin-top: 10px;">
     <img src="https://img.shields.io/badge/Especialista_em_UI%2FUX-30A3DC?style=for-the-badge&logo=figma&logoColor=white" alt="Especialista em UI/UX"/>
     <img src="https://img.shields.io/badge/Desenvolvedor_Criativo-5865F2?style=for-the-badge&logo=react&logoColor=white" alt="Desenvolvedor Criativo"/>
   </div>
