@@ -2,32 +2,9 @@
   <img src="https://github.com/user-attachments/assets/0f2b0c1b-d1b2-4c94-97c2-c7318ff59466" alt="Banner Animado" width="100%" height="200px"/>
 </div>
 
- <div align="center" style="margin-top: -80px; margin-bottom: 20px;">
-  
-  <div>
-    <svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
-      <style>
-        .text-path {
-          font-family: 'Segoe UI', 'Roboto', sans-serif;
-          font-size: 80px;
-          font-weight: bold;
-          fill: none;
-          stroke: #FFFFFF;
-          stroke-width: 2;
-          stroke-dasharray: 800;
-          stroke-dashoffset: 800;
-          animation: draw 4s ease-in-out forwards;
-        }
-        @keyframes draw {
-          to {
-            stroke-dashoffset: 0;
-          }
-        }
-      </style>
-      <text class="text-path" x="50%" y="50%" dominant-baseline="middle" text-anchor="middle">Tarciso</text>
-    </svg>
-  </div>
-  
+<h1 style="font-family: 'Segoe UI', Roboto, sans-serif; font-size: 4.5em; font-weight: 700; color: #FFFFFF; letter-spacing: 2px; text-shadow: 2px 2px 8px rgba(0,0,0,0.5);">
+  Tarciso
+</h1>  
   <div>
     <img src="https://img.shields.io/badge/Especialista_em_UI%2FUX-30A3DC?style=for-the-badge&logo=figma&logoColor=white" alt="Especialista em UI/UX"/>
     <img src="https://img.shields.io/badge/Desenvolvedor_Criativo-5865F2?style=for-the-badge&logo=react&logoColor=white" alt="Desenvolvedor Criativo"/>
