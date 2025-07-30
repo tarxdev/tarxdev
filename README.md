@@ -1,115 +1,129 @@
-<div align="center">
-
-  <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-        <style>
-          @keyframes gradient-animation {
-            0% { background-position: 0% 50%; }
-            50% { background-position: 100% 50%; }
-            100% { background-position: 0% 50%; }
-          }
-          @keyframes text-glow {
-            0%, 100% { text-shadow: 0 0 10px #00aaff, 0 0 20px #00aaff, 0 0 30px #00aaff; }
-            50% { text-shadow: 0 0 20px #00aaff, 0 0 30px #00aaff, 0 0 40px #00aaff; }
-          }
-          .container {
-            font-family: 'Fira Code', 'Segoe UI', 'Roboto', 'Helvetica Neue', 'Arial', sans-serif;
-            background: linear-gradient(-45deg, #0d1117, #161b22, #0d1117, #21262d);
-            background-size: 400% 400%;
-            animation: gradient-animation 10s ease infinite;
-            width: 100%;
-            height: 400px;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            text-align: center;
-            color: #c9d1d9;
-            border-radius: 10px;
-          }
-          h1 {
-            font-size: 5em;
-            font-weight: 700;
-            color: #fff;
-            animation: text-glow 2.5s ease-in-out infinite;
-          }
-          p {
-            font-size: 1.5em;
-            margin-top: -10px;
-            color: #8b949e;
-          }
-        </style>
-        <div class="container">
-          <h1>Tarciso</h1>
-          <p>Especialista em UI/UX & Desenvolvedor Criativo</p>
-        </div>
-      </div>
-    </foreignObject>
-  </svg>
-</div>
-
-<div align="center">
-
-  ### `[ inicializando sistemas... carregando módulos... ]`
-
-</div>
-
----
-
-### 🚀 Módulos de Habilidade
-
-<div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Tarciso's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tarxdev&bg_color=0d1117&color=ffffff&line=00aaff&point=ffffff&area=true&hide_border=true" />
-  </a>
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-      <br><strong>Front-End</strong>
-    </td>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=git,github,postman" />
-      <br><strong>Ferramentas</strong>
-    </td>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=figma,bots" />
-      <br><strong>UI/UX & Automação</strong>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🌌 Visualizador de Contribuições 3D
-
-_Esta é uma visualização 3D interativa das minhas contribuições. Clique e arraste para explorar!_
+<!-- Header Animado -->
 
 <p align="center">
-  <a href="https://github.com/yoshi389111/github-profile-3d-contrib">
-    <img src="https://github-profile-3d-contrib.vercel.app/api?username=tarxdev&theme=dark" alt="My 3D contributions" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&amp;color=0:10F5E4,100:FF6EC7&amp;height=150&amp;text=Tarciso%20%E2%99%A5%20UI%2FUX&amp;fontSize=60" alt="Animated Header" />
+</p>
+
+<!-- Efeito Typewriter -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=700&color=0FF5E3&background=0A192F&width=600&lines=Olá%2C+eu+sou+Tarciso!;UI%2FUX+Specialist;Amo+interfaces+que+encantam" alt="Typewriter Effect" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Design Sparkle" width="200"/>
+</p>
+
+---
+
+## 🌈 Paleta Animada
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-FF3E00?style=for-the-badge&logo=html5&logoColor=white&animation=glow" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&animation=glow" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&animation=glow" alt="JS" />
+</p>
+
+---
+
+## 🚀 Tecnologias & Habilidades
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/6372fe0a7334e4b27c8f664d3c1af684b7b93acf0fc3d2f3ca0e322cedc7cd4b/68747470733a2f2f6465617462616c6c2e6f72672f6d696e696d616c2f73746174732f64696e616d69632f756e697175652e737667" alt="Dynamic Circle Animation" width="100" />
+  <img src="https://raw.githubusercontent.com/Ileriayo/markdown-badges/master/svg/react.svg" alt="React" width="100" class="pulse-animation" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/projects/light/api.svg" alt="API" width="100" class="spin-animation" />
+</p>
+
+<details>
+<summary>🔍 Mais Skills</summary>
+
+* **Design UI/UX**: Wireframes, protótipos animados (Figma), design system.
+* **Frontend**: HTML semântico, CSS avançado (Flexbox, Grid, animações keyframes).
+* **JavaScript**: ES6+, DOM, Async/Await, Fetch, Axios.
+* **Frameworks**: React.js (Hooks, Context API), Next.js.
+* **Versionamento**: Git, GitHub Flow, actions CI/CD.
+* **APIs e Integrações**: REST, GraphQL, OAuth.
+* **Chatbots**: Dialogflow, Botpress—com fluxos interativos.
+* **Testes**: Jest, React Testing Library, Cypress.
+
+</details>
+
+---
+
+## ✨ Projetos em Destaque
+
+<details>
+<summary>Portfolio Animado</summary>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" alt="Portfolio Animation" width="400"/>
+</p>
+
+**Descrição**: Website pessoal com seções animadas, Lottie para micro-interações e dark/light mode.
+
+🔗 [Ver Demo](https://tarciso.dev)
+
+</details>
+
+<details>
+<summary>Chatbot Interativo</summary>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26ndzxT2xRhXHTIXu/giphy.gif" alt="Chatbot GIF" width="400"/>
+</p>
+
+**Descrição**: Interface de chatbot em React com animações de digitação e botões dinâmicos.
+
+🔗 [Repositório](https://github.com/tarciso/chatbot-ui)
+
+</details>
+
+---
+
+## 📈 Estatísticas em Tempo Real
+
+<p align="center">
+  <a href="https://github.com/tarciso">
+    <img src="https://github-readme-stats.vercel.app/api?username=tarciso&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
   </a>
 </p>
 
 ---
 
-### 🎶 Trilha Sonora do Código
+## 🌐 Conecte-se Comigo
 
-_O que estou ouvindo no Spotify agora..._
-
-<div align="center">
-  <a href="https://github.com/novatorem/novatorem-activity">
-  <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=00aaff" alt="Novatorem Spotify" width="400" />
+<p align="center">
+  <a href="https://linkedin.com/in/tarciso" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&animation=shine" alt="LinkedIn" />
   </a>
-</div>
+  <a href="mailto:tarciso@example.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white&animation=shine" alt="Email" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://media.giphy.com/media/OwW4hjaipU5FU/giphy.gif" alt="Keep Creating" width="80"/>
+</p>
 
-### `[ conexão encerrada ]`
+<style>
+/* Pulsing Icon */
+.pulse-animation {
+  animation: pulse 2s infinite;
+}
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.1); }
+  100% { transform: scale(1); }
+}
 
-</div>
+/* Spinning Icon */
+.spin-animation {
+  animation: spin 4s linear infinite;
+}
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+</style>
