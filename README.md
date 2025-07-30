@@ -2,13 +2,15 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb212amM1NWVld2VoZXI1aXN6dTN6aHlqNWM1enJwejRjM25lYjZkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCfvKA9Hes/giphy.gif" alt="Banner Animado" width="100%" height="200px"/>
 </div>
 
-<div align="center" style="margin-top: -80px; margin-bottom: 20px;">
+<div align="center" style="margin-top: -100px; margin-bottom: 20px;">
 
   <div align="center">
-    <img src="https://i.imgur.com/T0R0a0b.png" alt="Título Tarciso" width="500"/>
+    <h1 style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 72px; font-weight: bold; color: #FFFFFF; text-shadow: 0 0 10px rgba(48,163,220,0.5), 0 0 5px rgba(255,255,255,0.8);">
+      Tarciso
+    </h1>
   </div>
   
-  <div align="center" style="margin-top: 10px;">
+  <div align="center" style="margin-top: -15px;">
     <img src="https://img.shields.io/badge/Especialista_em_UI%2FUX-30A3DC?style=for-the-badge&logo=figma&logoColor=white" alt="Especialista em UI/UX"/>
     <img src="https://img.shields.io/badge/Desenvolvedor_Criativo-5865F2?style=for-the-badge&logo=react&logoColor=white" alt="Desenvolvedor Criativo"/>
   </div>
