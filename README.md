@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="COLE_A_SUA_URL_AQUI" alt="Banner Animado" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/0f2b0c1b-d1b2-4c94-97c2-c7318ff59466" alt="Banner Animado" width="100%"/>
 </div>
 
 <div align="center" style="margin-top: -80px;">
