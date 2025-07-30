@@ -1,1 +1,49 @@
-<div align="center"><img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB6d2N5dGR0a2l6eDJ2dGg1dG1zY3JvZjh3Z2t0cGJwZzNqZGNzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjo6GJ3ia/giphy.gif" width="100%" alt="Banner animado com código e elementos de design"/></div><h1 align="center">Oi, eu sou o Tarciso 👋</h1><h3 align="center">Especialista em UI/UX & Desenvolvedor Front-End</h3><p align="center"><em>Apaixonado por criar experiências digitais intuitivas, funcionais e memoráveis.</em></p><br>👨‍💻 Sobre MimSou um profissional que vive na intersecção entre o design centrado no usuário e o desenvolvimento de interfaces. Minha missão é traduzir ideias e problemas complexos em soluções digitais elegantes, responsivas e que as pessoas amem usar.🎨 Transformando wireframes em interfaces pixel-perfect.🚀 Focado em performance, acessibilidade e usabilidade.💬 Criando chatbots que melhoram a comunicação e a automação.💡 Sempre explorando novas tecnologias para aprimorar a experiência do usuário.🛠️ Meu Arsenal de Habilidades<p align="center"><a href="https://skillicons.dev"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,javascript,react,tailwind,git,github,figma,postman,nodejs" /></a></p>CategoriaHabilidadesUI/UX DesignFigma, Wireframing, Prototipagem, User Flows, Design SystemsFront-EndHTML5, CSS3, JavaScript (ES6+), React.js, Tailwind CSS, APIs (RESTful)FerramentasGit, GitHub, VS Code, PostmanOutras PaixõesCriação de Chatbots, Automação, Acessibilidade Web📊 Minhas Estatísticas no GitHub<div align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSEU-NOME-DE-USUARIO%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue"/></a><br><br><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DSEU-NOME-DE-USUARIO%26layout%3Dcompact%26theme%3Ddracula"/></a></div>📫 Vamos nos Conectar?Estou sempre aberto a novas oportunidades, colaborações e um bom bate-papo sobre tecnologia e design.<p align="center"><a href="mailto:SEU-EMAIL-AQUI@example.com" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"></a>&nbsp;<a href="https://www.google.com/search?q=https://www.linkedin.com/in/SEU-PERFIL-DO-LINKEDIN/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"></a></p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/19563340-f642-4214-a711-665552632281" alt="Banner Animado" width="100%"/>
+</div>
+<div align="center" style="margin-top: -80px;">
+  <h1 style="color: #FFFFFF; text-shadow: 2px 2px 4px #000000;">Tarciso</h1>
+  <p style="color: #FFFFFF; text-shadow: 1px 1px 3px #000000;">Especialista em UI/UX & Desenvolvedor Criativo</p>
+</div>
+
+---
+
+### 🚀 Sobre Mim
+
+<div align="center">
+  <p>Apaixonado por construir interfaces intuitivas e visualmente atraentes. Minha missão é unir o design centrado no usuário com um código limpo e eficiente para criar produtos digitais que as pessoas amam usar.</p>
+</div>
+
+---
+
+### 🛠️ Minhas Ferramentas e Tecnologias
+
+<div align="center">
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,figma,postman,bots&perline=5" />
+    </a>
+  </p>
+</div>
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tarxdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=30A3DC&title_color=30A3DC&text_color=FFF"/>
+  </a>
+  <a href="https://github.com/anuraghazra/convoyeur">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarxdev&layout=compact&langs_count=8&theme=tokyonight&border_color=30A3DC&title_color=30A3DC&text_color=FFF"/>
+  </a>
+</div>
+
+---
+
+### 📫 Como me encontrar
+
+<div align="center">
+  <a href="mailto:seu-email-aqui@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/seu-linkedin-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
