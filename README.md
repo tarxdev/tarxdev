@@ -7,7 +7,7 @@
   <div align="center">
     <svg width="450" height="100" xmlns="http://www.w3.org/2000/svg">
       <rect width="100%" height="100%" rx="10" ry="10" fill="#161b22" stroke="#30A3DC" stroke-width="2"/>
-      <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Segoe UI, Roboto, sans-serif" font-size="100" font-weight="bold" fill="#FFFFFF">Tarciso Ferreira</text>
+      <text x="100%" y="100%" dominant-baseline="middle" text-anchor="middle" font-family="Segoe UI, Roboto, sans-serif" font-size="100" font-weight="bold" fill="#FFFFFF">Tarciso Ferreira</text>
     </svg>
   </div>
   
