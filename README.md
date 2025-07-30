@@ -90,8 +90,6 @@ _Esta é uma visualização 3D interativa das minhas contribuições. Clique e a
 
 <p align="center">
   <a href="https://github.com/yoshi389111/github-profile-3d-contrib">
-    <img src="https://cdn.jsdelivr.net/gh/yoshi389111/github-profile-3d-contrib@main/docs/demo.gif" alt="Demo of 3D contributions" />
-    <br>
     <img src="https://github-profile-3d-contrib.vercel.app/api?username=tarxdev&theme=dark" alt="My 3D contributions" />
   </a>
 </p>
