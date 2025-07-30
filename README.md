@@ -1,5 +1,5 @@
 <div align="center">
-  <iframe src="https://assets.pinterest.com/ext/embed.html?id=5770305768912519" height="295" width="345" frameborder="0" scrolling="no" ></iframe>
+  <img src="COLE_A_SUA_URL_AQUI" alt="Banner Animado" width="100%"/>
 </div>
 
 <div align="center" style="margin-top: -80px;">
