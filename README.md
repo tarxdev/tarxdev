@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/19563340-f642-4214-a711-665552632281" alt="Banner Animado" width="100%"/>
+  <img src="COLE_A_SUA_URL_AQUI" alt="Banner Animado" width="100%"/>
 </div>
+
 <div align="center" style="margin-top: -80px;">
   <h1 style="color: #FFFFFF; text-shadow: 2px 2px 4px #000000;">Tarciso</h1>
   <p style="color: #FFFFFF; text-shadow: 1px 1px 3px #000000;">Especialista em UI/UX & Desenvolvedor Criativo</p>
