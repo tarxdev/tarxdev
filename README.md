@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb212amM1NWVld2VoZXI1aXN6dTN6aHlqNWM1enJwejRjM25lYjZkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCfvKA9Hes/giphy.gif" alt="Banner Animado" width="100%" height="200px"/>
+  <img src="https://github.com/user-attachments/assets/0f2b0c1b-d1b2-4c94-97c2-c7318ff59466" alt="Banner Animado" width="100%" height="200px"/>
 </div>
 
 <div align="center" style="margin-top: -80px;">
