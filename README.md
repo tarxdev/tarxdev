@@ -2,11 +2,12 @@
   <img src="https://github.com/user-attachments/assets/0f2b0c1b-d1b2-4c94-97c2-c7318ff59466" alt="Banner Animado" width="100%" height="200px"/>
 </div>
 
-<div align="center" style="margin-top: -80px;">
+<div align="center" style="margin-top: -80px; margin-bottom: 20px;">
   <h1 style="color: #FFFFFF; text-shadow: 2px 2px 4px #000000;">Tarciso</h1>
-  <p style="color: #FFFFFF; text-shadow: 1px 1px 3px #000000;">Especialista em UI/UX & Desenvolvedor Criativo</p>
+  
+  <img src="https://img.shields.io/badge/Especialista_em_UI%2FUX-30A3DC?style=for-the-badge&logo=figma&logoColor=white" alt="Especialista em UI/UX"/>
+  <img src="https://img.shields.io/badge/Desenvolvedor_Criativo-5865F2?style=for-the-badge&logo=react&logoColor=white" alt="Desenvolvedor Criativo"/>
 </div>
-
 ---
 
 ### 🚀 Sobre Mim
