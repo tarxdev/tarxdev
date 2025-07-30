@@ -2,12 +2,9 @@
   <img src="https://github.com/user-attachments/assets/0f2b0c1b-d1b2-4c94-97c2-c7318ff59466" alt="Banner Animado" width="100%" height="200px"/>
 </div>
 
-<div align="center" style="margin-top: -80px; margin-bottom: 20px;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&color=30A3DC&scolor=5865F2&center=true&vCenter=true&width=400&lines=Tarciso" alt="Tarciso's gradient name"/>
-  </a>
-
-  
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&color=30A3DC&scolor=5865F2&center=true&vCenter=true&width=400&lines=Tarciso" alt="Tarciso's gradient name"/>
+</a>
   <img src="https://img.shields.io/badge/Especialista_em_UI%2FUX-30A3DC?style=for-the-badge&logo=figma&logoColor=white" alt="Especialista em UI/UX"/>
   <img src="https://img.shields.io/badge/Desenvolvedor_Criativo-5865F2?style=for-the-badge&logo=react&logoColor=white" alt="Desenvolvedor Criativo"/>
 </div>
