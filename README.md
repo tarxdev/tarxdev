@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/tarxdev">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Olá,+eu+sou+o+Tarx!;Campus+Expert+@DIO;Fullstack+Developer;UI%2FUX+Design+Enthusiast;Python+%26+.NET+Lover" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Olá,+eu+sou+o+Tarx!;Campus+Expert+@DIO;Fullstack+Developer;UI%2FUX+Design+Enthusiast;Python+%26+Mobile+Lover" alt="Typing SVG" />
   </a>
 </div>
 
@@ -34,8 +34,6 @@
 
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <br/>
 
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white">
@@ -45,10 +43,13 @@
 
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </div>
 
 <br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/d9QiBcfemDnQs/giphy.gif" width="100%" height="80" style="max-width: 600px;">
+</div>
 
 <div align="center">
   <h3>📊 Métricas no GitHub</h3>
