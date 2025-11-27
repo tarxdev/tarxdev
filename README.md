@@ -71,7 +71,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="55%">
-      <img src="<img width="1346" height="761" alt="Image" src="https://github.com/user-attachments/assets/2258533b-ed7c-4615-a8d0-45d069f3ad24" />" alt="Print Alimentando Fases" width="100%" style="border-radius: 5px;">
+      <img src="https://github.com/user-attachments/assets/2258533b-ed7c-4615-a8d0-45d069f3ad24" alt="Print Alimentando Fases" width="100%" style="border-radius: 5px;">
     </td>
     <td width="45%" valign="top">
       <h3 align="center">🍎 Alimentando Fases</h3>
