@@ -70,7 +70,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="55%">
-      <img src="https://media.giphy.com/media/L1R1TVTh2RhtDZdPu/giphy.gif" alt="Demo Alimentando Fases" width="100%">
+      <img src="https://i.imgur.com/MChyQzQ.gif" alt="Demo Alimentando Fases" width="100%">
     </td>
     <td width="45%" valign="top">
       <h3 align="center">🍎 Alimentando Fases</h3>
