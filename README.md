@@ -51,6 +51,47 @@
 
 <br/>
 
+<h2 align="center">🚀 Projeto em Destaque</h2>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="55%">
+      <img src="https://media.giphy.com/media/L1R1TVTh2RhtDZdPu/giphy.gif" alt="Demo Alimentando Fases" width="100%">
+    </td>
+
+    <td width="45%" valign="top">
+      <h3 align="center">🍎 Alimentando Fases</h3>
+      <p>
+        Uma plataforma que une <b>Nutrição e Tecnologia</b>. O sistema personaliza o acompanhamento de fases alimentares com base em dados do usuário, garantindo precisão e facilidade.
+      </p>
+      
+      <p>
+        <b>✨ Principais Funcionalidades:</b><br>
+        • UX focada em acessibilidade<br>
+        • Dashboard interativo<br>
+        • Cálculos nutricionais automáticos
+      </p>
+
+      <br>
+      
+      <div align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="80px" />
+        <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" width="80px" />
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="80px" />
+      </div>
+
+      <br>
+
+      <div align="center">
+        <a href="LINK_DO_SEU_REPOSITORIO_AQUI">
+          <img src="https://img.shields.io/badge/Ver_Código-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+<br/>
+
 <div align="center">
   <h3>🏆 Galeria de Conquistas</h3>
   <img src="https://github-profile-trophy.vercel.app/?username=tarxdev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
@@ -69,35 +110,9 @@
 <br/>
 
 <div align="center">
-  <h2>🚀 Projeto em Destaque</h2>
-  
-  <a href="LINK_DO_SEU_REPOSITORIO_AQUI">
-    <img src="https://via.placeholder.com/1280x640/14354C/FFFFFF?text=Alimentando+Fases+-+Nutrição+e+Tecnologia" alt="Banner Alimentando Fases" width="100%" style="border-radius: 10px;" />
-  </a>
-  
-  <br/><br/>
-  
-  <p>
-    Um sistema inovador que une <b>Nutrição e Tecnologia</b> para auxiliar no acompanhamento de fases alimentares.
-    <br/>Focado em experiência do usuário e dados precisos.
-  </p>
-
-  <div>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  </div>
-  
-  <br/>
-  
-  <a href="LINK_DO_SEU_REPOSITORIO_AQUI">
-    <img src="https://img.shields.io/badge/Ver_Repositório-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="LINK_DO_LIVE_DEMO_AQUI_SE_TIVER">
-    <img src="https://img.shields.io/badge/Live_Demo-FF0000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  <img src="https://github.com/tarxdev/tarxdev/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
 </div>
-<br/>
+
 <br/>
 
 <div align="center">
