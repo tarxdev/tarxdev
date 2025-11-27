@@ -70,7 +70,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="55%">
-      <img src="https://i.imgur.com/DcIexSo.gif" alt="Demo Alimentando Fases" width="100%">
+      <img src="https://via.placeholder.com/600x400/14354C/FFFFFF?text=Print+do+Alimentando+Fases" alt="Alimentando Fases Preview" width="100%" style="border-radius: 5px;">
     </td>
     <td width="45%" valign="top">
       <h3 align="center">🍎 Alimentando Fases</h3>
@@ -104,7 +104,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="55%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Demo Projeto 2" width="100%">
+      <img src="https://via.placeholder.com/600x400/512BD4/FFFFFF?text=Print+do+Projeto+2" alt="Projeto 2 Preview" width="100%" style="border-radius: 5px;">
     </td>
     <td width="45%" valign="top">
       <h3 align="center">💡 Nome do Projeto 2</h3>
