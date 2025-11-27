@@ -64,10 +64,40 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tarxdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarxdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
   </a>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarxdev&theme=tokyonight&hide_border=true" />
 </div>
 
+<br/>
+
+<div align="center">
+  <h2>🚀 Projeto em Destaque</h2>
+  
+  <a href="LINK_DO_SEU_REPOSITORIO_AQUI">
+    <img src="https://via.placeholder.com/1280x640/14354C/FFFFFF?text=Alimentando+Fases+-+Nutrição+e+Tecnologia" alt="Banner Alimentando Fases" width="100%" style="border-radius: 10px;" />
+  </a>
+  
+  <br/><br/>
+  
+  <p>
+    Um sistema inovador que une <b>Nutrição e Tecnologia</b> para auxiliar no acompanhamento de fases alimentares.
+    <br/>Focado em experiência do usuário e dados precisos.
+  </p>
+
+  <div>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  </div>
+  
+  <br/>
+  
+  <a href="LINK_DO_SEU_REPOSITORIO_AQUI">
+    <img src="https://img.shields.io/badge/Ver_Repositório-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="LINK_DO_LIVE_DEMO_AQUI_SE_TIVER">
+    <img src="https://img.shields.io/badge/Live_Demo-FF0000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</div>
+<br/>
 <br/>
 
 <div align="center">
