@@ -34,13 +34,11 @@
 
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white">
   <br/>
 
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/UI%2FUX-000000?style=for-the-badge&logo=design&logoColor=white">
-  <br/>
-
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div>
@@ -48,12 +46,13 @@
 <br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/d9QiBcfemDnQs/giphy.gif" width="100%" height="80" style="max-width: 600px;">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa474-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
+
+<br/>
 
 <div align="center">
   <h3>📊 Métricas no GitHub</h3>
-  <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tarxdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarxdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
