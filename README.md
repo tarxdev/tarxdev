@@ -128,7 +128,7 @@
       </div>
       <br>
       <div align="center">
-        <a href="LINK_DO_REPOSITORIO_AURUM_AQUI">
+        <a href="https://github.com/tarxdev/AURUM.git">
           <img src="https://img.shields.io/badge/Ver_Código-100000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </div>
