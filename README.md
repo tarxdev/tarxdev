@@ -63,6 +63,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=tarxdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarxdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens" />
 </div>
+
 <br/>
 
 <h2 align="center">🚀 Projetos em Destaque</h2>
@@ -70,24 +71,24 @@
 <table border="0" width="100%">
   <tr>
     <td width="55%">
-      <img src="https://via.placeholder.com/600x400/14354C/FFFFFF?text=Print+do+Alimentando+Fases" alt="Alimentando Fases Preview" width="100%" style="border-radius: 5px;">
+      <img src="https://via.placeholder.com/600x340/14354C/FFFFFF?text=FOTO+DO+ALIMENTANDO+FASES" alt="Print Alimentando Fases" width="100%" style="border-radius: 5px;">
     </td>
     <td width="45%" valign="top">
       <h3 align="center">🍎 Alimentando Fases</h3>
       <p>
-        Uma plataforma que une <b>Nutrição e Tecnologia</b>. O sistema personaliza o acompanhamento de fases alimentares com base em dados do usuário, garantindo precisão e facilidade.
+        Uma plataforma que une <b>Nutrição e Tecnologia</b>. O sistema personaliza o acompanhamento de fases alimentares com base em dados do usuário, garantindo precisão.
       </p>
       <p>
-        <b>✨ Principais Funcionalidades:</b><br>
+        <b>✨ Diferenciais:</b><br>
         • UX focada em acessibilidade<br>
         • Dashboard interativo<br>
         • Cálculos nutricionais automáticos
       </p>
       <br>
       <div align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="80px" />
-        <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" width="80px" />
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="80px" />
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="70px" />
+        <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" width="70px" />
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="70px" />
       </div>
       <br>
       <div align="center">
@@ -104,23 +105,23 @@
 <table border="0" width="100%">
   <tr>
     <td width="55%">
-      <img src="https://via.placeholder.com/600x400/512BD4/FFFFFF?text=Print+do+Projeto+2" alt="Projeto 2 Preview" width="100%" style="border-radius: 5px;">
+      <img src="https://via.placeholder.com/600x340/512BD4/FFFFFF?text=FOTO+DO+PROJETO+2" alt="Print Projeto 2" width="100%" style="border-radius: 5px;">
     </td>
     <td width="45%" valign="top">
       <h3 align="center">💡 Nome do Projeto 2</h3>
       <p>
-        Breve descrição do seu segundo projeto incrível. Explique aqui qual problema ele resolve.
+        Breve descrição do seu segundo projeto incrível. Explique aqui qual problema ele resolve de forma direta e simples.
       </p>
       <p>
-        <b>✨ Principais Funcionalidades:</b><br>
+        <b>✨ Diferenciais:</b><br>
         • Feature interessante 1<br>
         • Feature interessante 2<br>
         • Integração com API
       </p>
       <br>
       <div align="center">
-        <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" width="80px" />
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" width="80px" />
+        <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" width="70px" />
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" width="70px" />
       </div>
       <br>
       <div align="center">
@@ -131,6 +132,7 @@
     </td>
   </tr>
 </table>
+
 <br/>
 
 <div align="center">
