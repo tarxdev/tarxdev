@@ -1,83 +1,80 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/040f87cf-4b4a-4fc7-b3ff-fa8bb93abfa9" alt="Banner Animado" width="100%" height="200px"/>
+  <a href="https://github.com/tarxdev">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Olá,+eu+sou+o+Tarx!;Campus+Expert+@DIO;Fullstack+Developer;UI%2FUX+Design+Enthusiast;Python+%26+.NET+Lover" alt="Typing SVG" />
+  </a>
 </div>
 
-<div align="center" style="margin-top: -100px; margin-bottom: 20px;">
+<br/>
 
-  <div align="center">
-    <h1 style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 72px; font-weight: bold; color: #FFFFFF; text-shadow: 0 0 10px rgba(48,163,220,0.5), 0 0 5px rgba(255,255,255,0.8);">
-      Tarciso Ferreira
-    </h1>
-  </div>
+<div align="center">
   
-  <div align="center" style="margin-top: -15px;">
-    <img src="https://img.shields.io/badge/Especialista_em_UI%2FUX-30A3DC?style=for-the-badge&logo=figma&logoColor=white" alt="Especialista em UI/UX"/>
-    <img src="https://img.shields.io/badge/Desenvolvedor_Criativo-5865F2?style=for-the-badge&logo=react&logoColor=white" alt="Desenvolvedor Criativo"/>
-  </div>
+  > *"Transformando café em código e ideias em interfaces."* ☕
+  
+  <br/>
 
-</div>
-
----
-
-### 🚀 Sobre Mim
-
-<div align="center">
-  <p>Apaixonado por construir interfaces intuitivas e visualmente atraentes. Minha missão é unir o design centrado no usuário com um código limpo e eficiente para criar produtos digitais que as pessoas amam usar.</p>
-</div>
-
----
-
-### 🛠️ Minhas Ferramentas e Tecnologias
-
-<div align="center">
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,figma,postman,bots&perline=5" />
-    </a>
+  <p align="center">
+     🔭 Trabalhando atualmente no projeto <b>Alimentando Fases</b><br/>
+     🎓 Cursando <b>Análise e Desenvolvimento de Sistemas</b> & <b>Nutrição</b><br/>
+     🌱 Aprofundando conhecimentos em <b>Software Engineering</b> e <b>Mobile (Kotlin)</b><br/>
+     🥋 Nas horas vagas: <b>Kickboxing, Karatê & Krav Maga</b>
   </p>
 </div>
 
----
-
-### 📊 Minhas Estatísticas no GitHub
+<br/>
 
 <div align="center">
+  <h3>🛠️ Arsenal Tecnológico</h3>
+  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <br/>
+
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <br/>
+
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/UI%2FUX-000000?style=for-the-badge&logo=design&logoColor=white">
+  <br/>
+
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>📊 Métricas no GitHub</h3>
+  <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tarxdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=30A3DC&title_color=30A3DC&text_color=FFF"/>
-  </a>
-  <a href="https://github.com/anuraghazra/convoyeur">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarxdev&layout=compact&langs_count=8&theme=tokyonight&border_color=30A3DC&title_color=30A3DC&text_color=FFF"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tarxdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarxdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
   </a>
 </div>
 
----
-
-<h2 align="center">💡 Projeto em Destaque</h2>
-
-<table>
-  <tr>
-    <td width="40%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmxjaXl1cDh0N211NnB4aG02aW1leXlpdWJseHFqaXJtZDVidjE4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J1prh8m2iNk5bDy940/giphy.gif" alt="Animação de interface de App" width="100%"/>
-    </td>
-    <td width="60%" valign="top">
-      <h3>Aplicativo de Finanças Pessoais "Meu Pé de Meia"</h3>
-      <p>
-        Atualmente, estou dedicando meu tempo livre ao design e desenvolvimento de um aplicativo de finanças pessoais focado na experiência do usuário para o público brasileiro.
-        <ul>
-          <li>✔️ <strong>UI Limpa e Intuitiva:</strong> Foco em facilitar o registro de despesas e a visualização de gastos.</li>
-          <li>✔️ <strong>Gamificação:</strong> Implementação de metas e conquistas para incentivar o hábito de poupar.</li>
-          <li>✔️ <strong>Tecnologias:</strong> Sendo construído com React Native para uma experiência multiplataforma (iOS e Android).</li>
-        </ul>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📫 Como me encontrar
+<br/>
 
 <div align="center">
-  <a href="mailto:seu-email-aqui@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/seu-linkedin-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <img src="https://github.com/tarxdev/tarxdev/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://linkedin.com/in/SEU_USUARIO_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="mailto:SEU_EMAIL_AQUI">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://dio.me/users/SEU_USUARIO_DIO">
+    <img src="https://img.shields.io/badge/-DIO_Campus_Expert-%231572B6?style=for-the-badge&logo=google-academic&logoColor=white" target="_blank">
+  </a>
 </div>
