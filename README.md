@@ -81,14 +81,16 @@
       <p>
         <b>✨ Diferenciais:</b><br>
         • UX focada em acessibilidade<br>
-        • Dashboard interativo<br>
-        • Cálculos nutricionais automáticos
+        • Animações fluidas (GSAP)<br>
+        • Banco de dados em tempo real
       </p>
       <br>
       <div align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="70px" />
-        <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" width="70px" />
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="70px" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="65px" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="65px" />
+        <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="65px" />
+        <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" width="65px" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" width="80px" />
       </div>
       <br>
       <div align="center">
@@ -105,27 +107,28 @@
 <table border="0" width="100%">
   <tr>
     <td width="55%">
-      <img src="https://via.placeholder.com/600x340/512BD4/FFFFFF?text=FOTO+DO+PROJETO+2" alt="Print Projeto 2" width="100%" style="border-radius: 5px;">
+      <img src="https://github.com/user-attachments/assets/69f3d0a2-35d4-4746-bee2-413fa3d35a87" alt="Preview Aurum 25" width="100%" style="border-radius: 5px;">
     </td>
     <td width="45%" valign="top">
-      <h3 align="center">💡 Nome do Projeto 2</h3>
+      <h3 align="center">✨ AURUM '25 - 3D Experience</h3>
       <p>
-        Breve descrição do seu segundo projeto incrível. Explique aqui qual problema ele resolve de forma direta e simples.
+        Uma experiência imersiva e cinematográfica que celebra a magia do Natal. Desenvolvido com <b>WebGL e Shaders</b> para criar interações realistas de luz e textura.
       </p>
       <p>
-        <b>✨ Diferenciais:</b><br>
-        • Feature interessante 1<br>
-        • Feature interessante 2<br>
-        • Integração com API
+        <b>✨ Diferenciais Técnicos:</b><br>
+        • Renderização 3D High-End (Three.js)<br>
+        • Shaders Customizados (Ouro Líquido)<br>
+        • Scroll Suave (Lenis) & GSAP
       </p>
       <br>
       <div align="center">
-        <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" width="70px" />
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" width="70px" />
+        <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" width="70px" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="70px" />
+        <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" width="70px" />
       </div>
       <br>
       <div align="center">
-        <a href="LINK_DO_SEU_REPOSITORIO_2_AQUI">
+        <a href="LINK_DO_REPOSITORIO_AURUM_AQUI">
           <img src="https://img.shields.io/badge/Ver_Código-100000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </div>
