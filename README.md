@@ -71,7 +71,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="55%">
-      <img src="https://via.placeholder.com/600x340/14354C/FFFFFF?text=FOTO+DO+ALIMENTANDO+FASES" alt="Print Alimentando Fases" width="100%" style="border-radius: 5px;">
+      <img src="https://github.com/tarxdev/tarxdev/issues/1#issue-3672468467" alt="Print Alimentando Fases" width="100%" style="border-radius: 5px;">
     </td>
     <td width="45%" valign="top">
       <h3 align="center">🍎 Alimentando Fases</h3>
